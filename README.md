@@ -1,2 +1,2 @@
 # Codex-Techno
-Repository with intern projects in codex techno 
+Data analytics intern projects in codextechno 
